@@ -33,26 +33,5 @@
         "id" : "5",
         "img" : "https://www.digitarinformatica.com.ar/wp-content/uploads/2021/08/Microprocesador-Amd-Ryzen-5-5600G-3.jpg"
 
-    },
-    {
-        "producto": "Microprocesador Ryzen 5 5600x",
-        "precio": "$45000",
-        "id" : "6",
-        "img" : "https://www.amd.com/system/files/2020-09/616656-amd-ryzen-5-5000-series-PIB-fan-1260x709.png"
-
-    },
-    {
-        "producto": "Motherboard Asus Rog Strix B-450F Gaming ||",
-        "precio": "$13000",
-        "id" : "7",
-        "img" : "https://http2.mlstatic.com/D_NQ_NP_955278-MLA44918631388_022021-O.jpg"
-
-    },
-    {
-        "producto": "Disco SDD 480GB Adata",
-        "precio": "$5000",
-        "id" : "8",
-        "img" : "https://www.comeros.com.ar/wp-content/uploads/2019/06/Comeros-ADATA-ASU630SS-480GQ-R-1.jpg"
-
     }
 ]
